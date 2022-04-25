@@ -6,13 +6,18 @@
 <table align="right">
  <tr><td><a  href="README-AR.md">🇪🇬 Arabic</a></td></tr>
  <tr><td><a  href="README.md">:us: English</a></td></tr>
+
 </table>
 
 
 
 ## About me
-<img alt="About"  src="https://user-images.githubusercontent.com/102864258/164969467-69059455-5c8e-4dde-843f-83ad1604bf13.png"/> 
+<div align="center">
+<img alt="About"  width="700px" heigth="250px" src="https://user-images.githubusercontent.com/102864258/165182494-fee9ba0b-efb9-400f-8619-f498f6d16d57.png"/> 
+</div>
+
 <details>
+ 
  <summary>GitHub state</summary>
  
 ![Mohammed's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohammedNaser28&hide=prs&theme=tokyonight)
