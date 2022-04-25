@@ -4,7 +4,7 @@
 </div>
 
 <table align="right">
- <tr><td><a style="text-decoration: none; color: aqua" href="https://github.com/Carol42/Carol42/blob/main/README.md">🇪🇬 Arabic</a></td></tr>
+ <tr><td><a style="text-decoration: none; color: aqua" href="https://github.com/Carol42/Carol42/blob/main/README-AR.md">🇪🇬 Arabic</a></td></tr>
  <tr><td><a style="text-decoration: none; color: aqua" href="https://github.com/Carol42/Carol42/blob/main/README.md">:us: English</a></td></tr>
 </table>
 
