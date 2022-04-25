@@ -73,25 +73,27 @@
 </p> -->
 
 <a href="https://github.com/Carol42/Carol42/edit/main/README.md#top" target="_blank" >
-<img alt="github" title="github" src="https://img.icons8.com/ios-glyphs/30/000000/github.png"/>
+<img width ="48px" alt="github" title="github" src="https://img.icons8.com/ios-glyphs/30/000000/github.png"/>
 </a>
 
-<a href="#" target="_blank">
- <img width="25px" alt="linkedin" title="linkedin" src="https://user-images.githubusercontent.com/102864258/165124197-2e22b7de-5fd5-40d7-866c-cbadc03f96a6.svg" />
-<a href="#" target="_blank"> 
- <img width="25px" alt ="facebook" title="facebook" src="https://user-images.githubusercontent.com/102864258/165124205-fc73de90-6ffc-47e9-9179-40d1c971ae2a.svg" />
+<a href="www.linkedin.com/in/mohammed-naser-2253a0235" target="_blank">
+ <img width ="48px" alt="linkedin" title="linkedin" src="https://user-images.githubusercontent.com/102864258/165124205-fc73de90-6ffc-47e9-9179-40d1c971ae2a.svg" />
+<a href="https://www.facebook.com/profile.php?id=100077884818599" target="_blank"> 
+ <img width ="48px" alt ="facebook" title="facebook" src="https://user-images.githubusercontent.com/102864258/165124197-2e22b7de-5fd5-40d7-866c-cbadc03f96a6.svg" />
  </a>
- <a href="#" target="_blank"> 
- <img width="25px" alt="Gmail" title="Gmail" src="https://user-images.githubusercontent.com/102864258/165124205-fc73de90-6ffc-47e9-9179-40d1c971ae2a.svg" />
+ <a href="MohammedNaser2826@gmail.com" target="_blank"> 
+ <img width ="48px" alt="Gmail" title="Gmail" src="https://user-images.githubusercontent.com/102864258/165145459-c5ae8bba-ac20-4a52-84e7-ce6de1841cc7.svg" />
  </a>
- <a href="#" target="_blank"> 
- <img width="25px" alt"twitter" title="twitter" src="https://user-images.githubusercontent.com/102864258/165124205-fc73de90-6ffc-47e9-9179-40d1c971ae2a.svg" />
+ <a href="https://twitter.com/MohammedNaser06" target="_blank"> 
+ <img width ="48px" alt"twitter" title="twitter" src="https://user-images.githubusercontent.com/102864258/165145310-4134bfe9-9bee-42e1-97ab-213d269790f8.svg" />
  </a>
-<a href="#" target="_blank">
- <img width="25px" alt="codepen" title="codepen" src="https://img.icons8.com/material/24/000000/codepen.png"/> 
+<a href="https://codepen.io/MohNaser" target="_blank" >
+ <img width ="48px" alt="codepen" title="codepen" src="https://img.icons8.com/material/24/000000/codepen.png"/> 
  </a>
  
-<a href="#" target="_blank">
+<!-- <a href="#" target="_blank">
  <img width="25px" alt="hackerrank" title="hackerrank" src="https://img.icons8.com/material/24/000000/codepen.png"/> 
- </a>
+ </a> -->
+
  
+
