@@ -52,5 +52,46 @@
 </br></br>
 
 ## :busts_in_silhouette: How to reach me ?
+<!--
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/fdsfdsf" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="fdsfdsf" height="30" width="40" />
+ </a>
+<a href="https://twitter.com/@mohammed" target="blank">
+ <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@mohammed" height="30" width="40" />
+ </a>
+<a href="https://linkedin.com/in/dfhhhgf" target="blank">
+ <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dfhhhgf" height="30" width="40" />
+ </a>
+<a href="https://fb.com/gfdhhd" target="blank">
+ <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gfdhhd" height="30" width="40" />
+ </a>
+<a href="https://www.hackerrank.com/hdfhh" target="blank">
+ <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hdfhh" height="30" width="40" />
+ </a>
+</p> -->
 
+<a href="https://github.com/Carol42/Carol42/edit/main/README.md#top" target="_blank" >
+<img alt="github" title="github" src="https://img.icons8.com/ios-glyphs/30/000000/github.png"/>
+</a>
 
+<a href="#" target="_blank">
+ <img width="25px" alt="linkedin" title="linkedin" src="https://user-images.githubusercontent.com/102864258/165124197-2e22b7de-5fd5-40d7-866c-cbadc03f96a6.svg" />
+<a href="#" target="_blank"> 
+ <img width="25px" alt ="facebook" title="facebook" src="https://user-images.githubusercontent.com/102864258/165124205-fc73de90-6ffc-47e9-9179-40d1c971ae2a.svg" />
+ </a>
+ <a href="#" target="_blank"> 
+ <img width="25px" alt="Gmail" title="Gmail" src="https://user-images.githubusercontent.com/102864258/165124205-fc73de90-6ffc-47e9-9179-40d1c971ae2a.svg" />
+ </a>
+ <a href="#" target="_blank"> 
+ <img width="25px" alt"twitter" title="twitter" src="https://user-images.githubusercontent.com/102864258/165124205-fc73de90-6ffc-47e9-9179-40d1c971ae2a.svg" />
+ </a>
+<a href="#" target="_blank">
+ <img width="25px" alt="codepen" title="codepen" src="https://img.icons8.com/material/24/000000/codepen.png"/> 
+ </a>
+ 
+<a href="#" target="_blank">
+ <img width="25px" alt="hackerrank" title="hackerrank" src="https://img.icons8.com/material/24/000000/codepen.png"/> 
+ </a>
+ 
