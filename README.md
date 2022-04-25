@@ -81,7 +81,7 @@
 <a href="https://www.facebook.com/profile.php?id=100077884818599" target="_blank"> 
  <img width ="48px" alt ="facebook" title="facebook" src="https://user-images.githubusercontent.com/102864258/165124197-2e22b7de-5fd5-40d7-866c-cbadc03f96a6.svg" />
  </a>
- <a href="MohammedNaser2826@gmail.com" target="_blank"> 
+ <a href="mailto:MohammedNaser2826@gmail.com" target="_blank"> 
  <img width ="48px" alt="Gmail" title="Gmail" src="https://user-images.githubusercontent.com/102864258/165145459-c5ae8bba-ac20-4a52-84e7-ce6de1841cc7.svg" />
  </a>
  <a href="https://twitter.com/MohammedNaser06" target="_blank"> 
