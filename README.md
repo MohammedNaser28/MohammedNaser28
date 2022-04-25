@@ -1,6 +1,6 @@
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&height=100&lines=I'm+Mohammed+Naser!;I'm+a+full-stack+developer;I'm+a+student+in+high+school" alt="My Name's Mohammed, I'm a full-stack developer, I'm in high school"> </a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&height=100&size=35&width=600&lines=I'm+Mohammed+Naser!;I'm+a+full-stack+developer;I'm+a+student+in+high+school" alt="My Name's Mohammed, I'm a full-stack developer, I'm in high school"> </a>
 </div>
 
 <table align="right">
@@ -12,8 +12,12 @@
 
 ## About me
 <img alt="About"  src="https://user-images.githubusercontent.com/102864258/164969467-69059455-5c8e-4dde-843f-83ad1604bf13.png"/> 
-
+<details>
+ <summary>GitHub state</summary>
+ 
 ![Mohammed's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohammedNaser28&hide=prs&theme=tokyonight)
+ 
+</details>
 <h2>:bulb: Languages & Frameworks</h2>
 <code><img title="C++" alt="C++" width="40px" src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" /></code>
 <code><img title="HTML 5" alt="html5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></code>
@@ -25,11 +29,12 @@
 <code> <img title="Next.js" alt="next.js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" /></code>
 <code> <img title="Markdown" alt="markdown" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" /></code>
 </br></br>
-
+<details>
+<summary>Top languages</summary>
 <div align="left"> <a href="https://github.com/anuraghazra/github-readme-stats">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedNaser28&layout=compact&langs_count=16"/> </a>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedNaser28&layout=compact&langs_count=16&theme=tokyonight"/> </a>
  </div>
-
+</details>
 <h2>:hammer_and_wrench: Tools I use</h2>
 <code><img title="Linux" alt="linux" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /></code>
 <code><img title="Ubuntu" alt="ubuntu" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" /></code>
@@ -46,6 +51,6 @@
 <code><img title="GIMP" alt="GNU Image Manipulation Program - GIMP" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" /></code>
 </br></br>
 
-##  How to reach me ?
+## :busts_in_silhouette: How to reach me ?
 
 
