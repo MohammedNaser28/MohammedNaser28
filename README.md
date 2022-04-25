@@ -1,10 +1,14 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&multiline=true&height=100&lines=I'm+Mohammed+Naser!;I'm+a+full-stack+developer;I'm+a+student+in+high+school)](https://git.io/typing-svg)
+
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&height=100&lines=I'm+Mohammed+Naser!;I'm+a+full-stack+developer;I'm+a+student+in+high+school" alt="My Name's Mohammed, I'm a full-stack developer, I'm in high school"> </a>
+</div>
+
 <table align="right">
  <tr><td><a style="text-decoration: none; color: aqua" href="https://github.com/Carol42/Carol42/blob/main/README.md">:ar: Arabic</a></td></tr>
  <tr><td><a style="text-decoration: none; color: aqua" href="https://github.com/Carol42/Carol42/blob/main/README-pt-br.md">:us: English</a></td></tr>
 </table>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedNaser28&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## About me
 <img alt="About"  src="https://user-images.githubusercontent.com/102864258/164969467-69059455-5c8e-4dde-843f-83ad1604bf13.png"/> 
@@ -22,6 +26,10 @@
 <code> <img title="Markdown" alt="markdown" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" /></code>
 </br></br>
 
+<div align="left"> <a href="https://github.com/anuraghazra/github-readme-stats">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedNaser28&layout=compact&langs_count=16"/> </a>
+ </div>
+
 <h2>:hammer_and_wrench: Tools I use</h2>
 <code><img title="Linux" alt="linux" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /></code>
 <code><img title="Ubuntu" alt="ubuntu" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" /></code>
@@ -29,7 +37,7 @@
 <code><img title="MS Windows" alt="microsoft windows" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" /></code>
 <code><img title="Git" alt="git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></code>
 <code><img title="GitHub" alt="github" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></code>
-<br>
+<!-- <br> -->
 <code><img title="Mozilla Firefox" alt="mozilla firefox" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" /></code>
 <code><img title="VS Code" alt="visual studio code" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></code>
 <code><img title="VS" alt="VS" width="48px" src="https://user-images.githubusercontent.com/102864258/164979277-81eddd11-d19b-47ec-9633-d5e08a2faf7b.svg"/></code>
