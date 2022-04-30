@@ -20,7 +20,7 @@
  
  <summary>GitHub state</summary>
  
-![Mohammed's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohammedNaser28&hide=prs&theme=tokyonight)
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MohammedNaser28&theme=tokyonight" alt="status">
  
 </details>
 <h2>:bulb: Languages & Frameworks</h2>
