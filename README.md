@@ -37,7 +37,7 @@
 <details>
 <summary>Top languages</summary>
 <div align="left"> <a href="https://github.com/anuraghazra/github-readme-stats">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedNaser28&layout=compact&langs_count=16&theme=tokyonight"/> </a>
+ <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MohammedNaser28&theme=tokyonight"/> </a>
  </div>
 </details>
 <h2>:hammer_and_wrench: Tools I use</h2>
