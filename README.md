@@ -1,6 +1,6 @@
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&height=100&size=35&width=600&lines=I'm+Mohammed+Naser!;I'm+a+full-stack+developer;I'm+a+student+in+high+school" alt="My Name's Mohammed, I'm a full-stack developer, I'm in high school"> </a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&height=100&size=35&width=600&lines=I'm+Mohammed+Naser!;I'm+a+full-stack+developer;" alt="My Name's Mohammed, I'm a full-stack developer, I'm in high school"> </a>
 </div>
 
 <table align="right">
